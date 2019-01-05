@@ -2,9 +2,9 @@
 
     #include<iostream>
 
-using namespace std;
-int main ()
-{
+    using namespace std;
+    int main ()
+    {
     cout<<"VIKTOR CEVIN ANJOLA"<<endl;
     cout<<"311810020"<<endl;
     cout<<"TI.18 D7"<<endl;
@@ -36,7 +36,7 @@ int main ()
     if (operasi == "/")
     {
         cout<<"Hasilnya ="<<(bilangan1)/(bilangan2)<<endl;
-   }
+    }
     return 0;
     
  ![img](https://raw.githubusercontent.com/VIKTORKEVIN/menjumlahkan-2-buah-bilangan/master/menjumlahkan%202%20buah%20bilangan.png)
